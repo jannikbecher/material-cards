@@ -6,10 +6,7 @@
     "David Foliti <marlenesco@gmail.com> (https://twitter.com/marlenesco)"
   ],
   "description": "Card style based on Google Material color palette",
-  "main": [
-    "less/material-cards.less",
-    "js/jquery.material-cards.js"
-  ],
+  "main": "js/jquery.material-cards.js",
   "keywords": [
     "Material cards",
     "Material card",
